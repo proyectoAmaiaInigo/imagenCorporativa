@@ -1,2 +1,3 @@
 imagenCorporativa
 =================
+Logos, nombres, imagenes, archivos illustrator, photoshop...
